@@ -13,7 +13,7 @@ OpenAPI spec version: 1.0
     <Authors>laazik</Authors>
     <Company>Rockit Solutions OÜ</Company>
     <Product>LuisClient</Product>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Description>Microsoft Luis Client for v.2.0</Description>
     <Copyright>N/A</Copyright>
     <PackageLicenseUrl>https://tldrlegal.com/license/apache-license-2.0-%28apache-2.0%29</PackageLicenseUrl>
